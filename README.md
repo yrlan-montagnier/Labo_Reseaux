@@ -1,4 +1,4 @@
-# Documentation Pôle Réseaux.
+# Projet de groupe Pôle-Réseau 
 # Sommaire
 - [I. Présentation du projet](#I-Présentation-du-projet)
 - [II. Organisation du projet](#II-Organisation-du-projet)
